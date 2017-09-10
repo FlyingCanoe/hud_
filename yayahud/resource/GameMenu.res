@@ -103,7 +103,7 @@
 	"ChangeServerButton"
 	{
 		"label" "CHANGE" 
-		"command" "quickplay"
+		"command" "play_casual"
 		"OnlyInGame" "1"
 	}
 	"DisconnectButton"

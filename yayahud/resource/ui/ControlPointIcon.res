@@ -11,6 +11,73 @@
 		"tall"		"24"
 		"visible"	"1"
 		"enabled"	"1"
+		"icon"		"replay/thumbnails/icon_obj_neutral"
+	}
+	
+	
+	
+		"ControlPointIconBorderLeft"
+	{
+		"ControlName"	"ImagePanel"
+		"fieldName"		"ControlPointIconBorderLeft"
+		"xpos"			"2"
+		"ypos"			"3"
+		"zpos"			"4"
+		"wide"			"2"
+		"tall"			"23"
+		"visible"		"0"
+		"enabled"		"1"
+		"autoResize"	"0"
+		"pinCorner"		"0"
+		"fillcolor"		"White"
+	}
+	
+	"ControlPointIconBorderRight"
+	{
+		"ControlName"	"ImagePanel"
+		"fieldName"		"ControlPointIconBorderRight"
+		"xpos"			"26"
+		"ypos"			"3"
+		"zpos"			"4"
+		"wide"			"2"
+		"tall"			"23"
+		"visible"		"0"
+		"enabled"		"1"
+		"autoResize"	"0"
+		"pinCorner"		"0"
+		"fillcolor"		"White"
+	}
+	
+	"ControlPointIconBorderTop"
+	{
+		"ControlName"	"ImagePanel"
+		"fieldName"		"ControlPointIconBorderTop"
+		"xpos"			"2"
+		"ypos"			"2"
+		"zpos"			"4"
+		"wide"			"26"
+		"tall"			"2"
+		"visible"		"0"
+		"enabled"		"1"
+		"autoResize"	"0"
+		"pinCorner"		"0"
+		"fillcolor"		"White"
+	}
+	
+	"ControlPointIconBorderBottom"
+	{
+		"ControlName"	"ImagePanel"
+		"fieldName"		"ControlPointIconBorderBottom"
+		"xpos"			"2"
+		"ypos"			"25"
+		"zpos"			"4"
+		"wide"			"26"
+		"tall"			"2"
+		"visible"		"0"
+		"enabled"		"1"
+		"autoResize"	"0"
+		"pinCorner"		"0"
+		"fillcolor"		"White"
 	}
 	
 	"Countdown"

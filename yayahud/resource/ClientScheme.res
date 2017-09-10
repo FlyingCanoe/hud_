@@ -1368,7 +1368,18 @@ Scheme
 		}
         /////////////////////
         //Custom Fonts
-    
+		
+		"Garm3n11"
+		{
+			1
+			{
+			"name" "Garm3nFont"
+			"tall"	 "11"
+			"weight"	"0"
+			"antialias"	"1"
+			"outline"	"0"
+			}
+		}
 		"HeavyCaps59"
 		{
 			"1"
@@ -8576,5 +8587,9 @@ Scheme
 			"font" "resource/fonts/heydings_icons.ttf"
 			"name" "Heydings Icons"
 		}
+		"27" 
+		{
+		"font" "resource/fonts/Garm3nFont.ttf"
+		"name" "Garm3nFont"
 	}
 }
