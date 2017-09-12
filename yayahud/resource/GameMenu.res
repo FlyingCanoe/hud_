@@ -102,7 +102,7 @@
 	}
 	"ChangeServerButton"
 	{
-		"label" "CHANGE" 
+		"label" "PLAY" 
 		"command" "play_casual"
 		"OnlyInGame" "1"
 	}

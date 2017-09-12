@@ -5,7 +5,7 @@
 		"ControlName"		"CExLabel"
 		"fieldName"		"HelloName"
         
-		"labelText"		""  //You can edit this line
+		"labelText"		"YES!"  //You can edit this line
                                                    //Enter your name instead of "there"
 		"textAlignment"		"east"
 		"xpos"			"r317"
